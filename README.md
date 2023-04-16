@@ -1110,7 +1110,7 @@ func main() {
 
 ## windows 编译多个平台程序
 
-#### 设置`GOOS`和`GOARCH`环境变量来指定目标平台的操作系统和CPU架构
+### 设置`GOOS`和`GOARCH`环境变量来指定目标平台的操作系统和CPU架构
 
 -   Windows 64位：`GOOS=windows`，`GOARCH=amd64`
 -   Windows 32位：`GOOS=windows`，`GOARCH=386`
